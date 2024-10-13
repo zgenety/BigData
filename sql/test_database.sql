@@ -1,0 +1,2 @@
+SELECT * FROM metrics LIMIT 10;
+SELECT * FROM stations LIMIT 10;

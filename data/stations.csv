@@ -1,0 +1,167 @@
+sitename,county,longitude,latitude,sid
+Hukou,Hsinchu County,121.03886894,24.90009696,0
+Zhongming,Taichung City,120.641092,24.151958,1
+Zhudong,Hsinchu County,121.08895493,24.74091408,2
+Hsinchu,Hsinchu City,120.97236752,24.8056356,3
+Toufen,Miaoli County,120.89869286,24.69690679,4
+Miaoli,Miaoli County,120.82011468,24.56499183,5
+Sanyi,Miaoli County,120.75956754,24.38248443,6
+Fengyuan,Taichung City,120.74252414,24.25699731,7
+Shalu,Taichung City,120.568794,24.225628,8
+Dali,Taichung City,120.67844444,24.09961111,9
+Xitun,Taichung City,120.616917,24.162197,10
+Pingzhen,Taoyuan City,121.203986,24.952786,11
+Xianxi,Changhua County,120.469061,24.131672,12
+Erlin,Changhua County,120.409653,23.925175,13
+Nantou,Nantou County,120.685306,23.913,14
+Douliu,Yunlin County,120.544994,23.711853,15
+Lunbei,Yunlin County,120.348742,23.757547,16
+Xingang,Chiayi County,120.345531,23.554839,17
+Puzi,Chiayi County,120.2478,23.46538,18
+Taixi,Yunlin County,120.19933333,23.702175,19
+Longtan,Taoyuan City,121.21645772,24.86400048,20
+Guanyin,Taoyuan City,121.08283092,25.03556747,21
+Xinying,Tainan City,120.31725,23.305633,22
+Cailiao,New Taipei City,121.481028,25.06895,23
+Pingtung (Fangshan),Pingtung County,120.651472,22.260899,24
+Keelung,Keelung City,121.760056,25.129167,25
+Xizhi,New Taipei City,121.64081,25.06624,26
+Wanli,New Taipei City,121.689881,25.179667,27
+Xindian,New Taipei City,121.537778,24.977222,28
+Tucheng,New Taipei City,121.451861,24.982528,29
+Banqiao,New Taipei City,121.458667,25.012972,30
+Xinzhuang,New Taipei City,121.4325,25.037972,31
+Linkou,New Taipei City,121.36548982,25.07798949,32
+Dayuan,Taoyuan City,121.20251473,25.06100357,33
+Shilin,Taipei City,121.51666356,25.10334003,34
+Zhongshan,Taipei City,121.526528,25.062361,35
+Wanhua,Taipei City,121.507972,25.046503,36
+Guting,Taipei City,121.529556,25.020608,37
+Songshan,Taipei City,121.578611,25.05,38
+Datong,Taipei City,121.51342074,25.06331455,39
+Taoyuan,Taoyuan City,121.30500531,24.9947107,40
+Chiayi,Chiayi City,120.44125148,23.46477865,41
+Changhua,Changhua County,120.541519,24.066,42
+Shanhua,Tainan City,120.29740529,23.11337642,43
+Yilan,Yilan County,121.746394,24.747917,44
+Sanchong,New Taipei City,121.493806,25.072611,45
+Zhongli,Taoyuan City,121.221667,24.953278,46
+Zhushan,Nantou County,120.677306,23.756389,47
+Yonghe,New Taipei City,121.516306,25.017,48
+Fuxing,Kaohsiung City,120.312017,22.608711,49
+Puli,Nantou County,120.967903,23.968842,50
+Annan,Tainan City,120.2175,23.048197,51
+Magong,Penghu County,119.566158,23.569031,52
+Guanshan,Taitung County,121.161933,23.045083,53
+Mailiao,Yunlin County,120.251825,23.753506,54
+Fugui Cape,New Taipei City,121.53656894,25.29681695,55
+Changhua (Yuanlin),Changhua County,120.56373,23.96117,56
+Kaohsiung (Hunei),Kaohsiung City,120.24535,22.87985556,57
+Tainan (Madou),Tainan City,120.24583056,23.17904722,58
+Pingtung (Liuqiu),Pingtung County,120.37722,22.35222,59
+New Taipei (Shulin),New Taipei City,121.38352778,24.94902778,60
+Dongshan,Yilan County,121.792928,24.632203,61
+Kinmen,Kinmen County,118.312256,24.432133,62
+Zuoying,Kaohsiung City,120.292917,22.674861,63
+Meinong,Kaohsiung City,120.530542,22.883583,64
+Qiaotou,Kaohsiung City,120.305689,22.757506,65
+Renwu,Kaohsiung City,120.332631,22.689056,66
+Fengshan,Kaohsiung City,120.357422,22.628126,67
+Daliao,Kaohsiung City,120.425311,22.56413611,68
+Linyuan,Kaohsiung City,120.41175,22.4795,69
+Nanzi,Kaohsiung City,120.328289,22.733667,70
+Tainan,Tainan City,120.21947897,22.98928311,71
+Qianjin,Kaohsiung City,120.28676111,22.63390278,72
+Xiaogang,Kaohsiung City,120.337736,22.565833,73
+Pingtung,Pingtung County,120.488033,22.673081,74
+Chaozhou,Pingtung County,120.561175,22.523108,75
+Hengchun,Pingtung County,120.788928,21.958069,76
+Taitung,Taitung County,121.15045,22.755358,77
+Hualien,Hualien County,121.599769,23.971306,78
+Qianzhen,Kaohsiung City,120.30833356,22.6044507,79
+Dacheng,Changhua County,120.26964167,23.85493056,80
+Dajia (Rinan Elementary School),Taichung City,120.65525382,24.39017512,81
+Yangming,Taipei City,121.529583,25.182722,82
+Tamsui,New Taipei City,121.449239,25.1645,83
+Matsu,Lienchiang County,119.952724,26.153736,84
+Matsu,Lienchiang County,119.93149378,26.15188416,85
+Pingtung County (Taiwu),Pingtung County,120.66501,22.58564,86
+Chiayi (Shuishang),Chiayi County,120.43677806,23.44647278,87
+Taichung (Dajia),Taichung City,120.65575,24.391,88
+Tainan,Tainan City,120.22085,22.99123,89
+Taoyuan (Sanmin),Taoyuan City,121.31788148,25.00132736,90
+Yilan (Zhuangwei),Yilan County,121.815708,24.765468,91
+Tainan,Tainan City,120.22238056,22.98525833,92
+Tainan (Xuejia),Tainan City,120.18339722,23.23688056,93
+Xizhi,New Taipei City,121.6423,25.067131,94
+Puzi,Chiayi County,120.24781111,23.46712222,95
+Nantou (Nantou County Council),Nantou County,120.6790943,23.9075061,96
+Guanyin,Taoyuan City,121.082761,25.035503,97
+Zhudong,Hsinchu County,121.088903,24.740644,98
+Fengyuan,Taichung City,120.741711,24.256586,99
+Toufen,Miaoli County,120.898572,24.696969,100
+Hsinchu,Hsinchu City,120.972075,24.805619,101
+Longtan,Taoyuan City,121.21635,24.863869,102
+Miaoli,Miaoli County,120.8202,24.565269,103
+Datong,Taipei City,121.513311,25.0632,104
+Dayuan,Taoyuan City,121.201811,25.060344,105
+Hukou,Hsinchu County,121.038653,24.900142,106
+Taoyuan,Taoyuan City,121.30872222,24.98677778,107
+Sanyi,Miaoli County,120.758833,24.382942,108
+Matsu,Lienchiang County,120.59128111,26.25799556,109
+Linkou,New Taipei City,121.376869,25.077197,110
+Fugui Cape,New Taipei City,121.54738,25.29228,111
+Shanhua,Tainan City,120.297142,23.115097,112
+Chiayi,Chiayi City,120.44083333,23.462778,113
+Qianzhen,Kaohsiung City,120.307564,22.605386,114
+Fengshan,Kaohsiung City,120.358083,22.627392,115
+Taoyuan (Sanmin),Taoyuan City,121.31820833,25.00121944,116
+Pingtung (Fangliao),Pingtung County,120.59036944,22.38474167,117
+Tainan,Tainan City,120.202617,22.984581,118
+Shilin,Taipei City,121.515389,25.105417,119
+Taoyuan (Luzhu),Taoyuan City,121.31795,25.00130833,120
+Matsu,Lienchiang County,119.949875,26.160469,121
+Qianjin,Kaohsiung City,0.0,0.0,122
+Taoyuan (Yangmei),Taoyuan City,121.184472374459,24.9241666691556,123
+Qianjin,Kaohsiung City,120.2865,22.63388889,124
+Taoyuan (Yangmei),Taoyuan City,121.385,25.65444444,125
+Taichung (Dadu),Taichung City,120.57252222,24.15265,126
+Shilin,Taipei City,121.51538899999998,25.105417000000003,127
+Datong,Taipei City,121.51331100000002,25.0632,128
+Pingtung (Liuqiu),Pingtung County,120.37722,22.352220000000003,129
+Nanzi,Kaohsiung City,120.32828899999998,22.733667,130
+Qianjin,Kaohsiung City,120.288086,22.632567,131
+Shilin,Taipei City,121.51538899999998,25.105417000000006,132
+Pingtung (Liuqiu),Pingtung County,120.37722,22.35222000000001,133
+Pingtung (Fangliao),Pingtung County,121.00379167,22.650525,134
+Pingtung (Jianxing),Pingtung County,121.00379167,22.650525,135
+Hunei,Kaohsiung City,120.24535,22.87985556,136
+Pingtung (Fangliao),Pingtung County,120.59116667,22.37094722,137
+Taoyuan (Sanmin),Taoyuan City,121.31795,25.00130833,138
+Changhua (Yuanlin),Changhua County,120.58178611,23.95058333,139
+Chaozhou,Pingtung County,120.54303333,22.54779444,140
+Dali,Taichung City,120.677689,24.099611,141
+Hsinchu (Beiqu),Hsinchu City,120.96231389,24.81953333,142
+Tainan (Beimen),Tainan City,120.12444444,23.26472222,143
+Changhua (Dacheng),Changhua County,120.27311,23.84313,144
+Yonghe (Huanhe),New Taipei City,121.50410278,25.01231389,145
+Taoyuan (Zhubei),Taoyuan City,121.24426111,25.10363611,146
+Dayuan (Zhubei),Taoyuan City,121.24426111,25.10363611,147
+Kaohsiung (Alian),Kaohsiung City,120.32724444,22.88545833,148
+Nantou (Caotun),Nantou County,120.68786389,23.98187222,149
+Changhua (Tianwei),Changhua County,120.52878611,23.89177778,150
+New Taipei (Shulin),New Taipei City,120.348742,23.757547,151
+Puzi,Chiayi County,120.24781000000002,23.467123,152
+Taoyuan,Taoyuan City,121.304383,24.995368,153
+Taixi,Yunlin County,120.202842,23.717533,154
+Fugui Cape,New Taipei City,121.536763,25.298562,155
+Chiayi,Chiayi City,120.440833,23.462778,156
+Daliao,Kaohsiung City,120.425081,22.565747,157
+Puzi,Chiayi County,120.24205556,23.47011111,158
+Taoyuan (Guanyin Industrial Zone),Taoyuan City,121.12804444,25.06303889,159
+Changhua (Dacheng),Changhua County,120.28181389,23.84315833,160
+Tainan (Beimen),Tainan City,120.12416667,23.26541944,161
+Shulin,Taoyuan City,121.12780556,25.06133333,162
+Taoyuan,Taoyuan City,121.31996399999998,24.994789,163
+Hsinchu (Xiangshan),Hsinchu City,120.348742,23.757547,164
+Miaoli (Houlong),Miaoli County,120.348742,23.757547,165

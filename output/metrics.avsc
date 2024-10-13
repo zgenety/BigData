@@ -1,0 +1,121 @@
+{
+  "type" : "record",
+  "name" : "metrics",
+  "doc" : "Sqoop import of metrics",
+  "fields" : [ {
+    "name" : "date_time",
+    "type" : [ "null", "long" ],
+    "default" : null,
+    "columnName" : "date_time",
+    "sqlType" : "93"
+  }, {
+    "name" : "aqi",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "aqi",
+    "sqlType" : "2"
+  }, {
+    "name" : "so2",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "so2",
+    "sqlType" : "2"
+  }, {
+    "name" : "co",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "co",
+    "sqlType" : "2"
+  }, {
+    "name" : "o3",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "o3",
+    "sqlType" : "2"
+  }, {
+    "name" : "o3_8hr",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "o3_8hr",
+    "sqlType" : "2"
+  }, {
+    "name" : "pm10",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "pm10",
+    "sqlType" : "2"
+  }, {
+    "name" : "pm2_5",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "pm2_5",
+    "sqlType" : "2"
+  }, {
+    "name" : "no2",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "no2",
+    "sqlType" : "2"
+  }, {
+    "name" : "nox",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "nox",
+    "sqlType" : "2"
+  }, {
+    "name" : "no",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "no",
+    "sqlType" : "2"
+  }, {
+    "name" : "windspeed",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "windspeed",
+    "sqlType" : "2"
+  }, {
+    "name" : "winddirec",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "winddirec",
+    "sqlType" : "2"
+  }, {
+    "name" : "co_8hr",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "co_8hr",
+    "sqlType" : "2"
+  }, {
+    "name" : "pm2_5_avg",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "pm2_5_avg",
+    "sqlType" : "2"
+  }, {
+    "name" : "pm10_avg",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "pm10_avg",
+    "sqlType" : "2"
+  }, {
+    "name" : "so2_avg",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "so2_avg",
+    "sqlType" : "2"
+  }, {
+    "name" : "sid",
+    "type" : [ "null", "int" ],
+    "default" : null,
+    "columnName" : "sid",
+    "sqlType" : "4"
+  }, {
+    "name" : "id",
+    "type" : [ "null", "int" ],
+    "default" : null,
+    "columnName" : "id",
+    "sqlType" : "4"
+  } ],
+  "tableName" : "metrics"
+}

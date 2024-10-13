@@ -1,0 +1,37 @@
+{
+  "type" : "record",
+  "name" : "stations",
+  "doc" : "Sqoop import of stations",
+  "fields" : [ {
+    "name" : "sitename",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "sitename",
+    "sqlType" : "12"
+  }, {
+    "name" : "county",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "county",
+    "sqlType" : "12"
+  }, {
+    "name" : "longitude",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "longitude",
+    "sqlType" : "2"
+  }, {
+    "name" : "latitude",
+    "type" : [ "null", "string" ],
+    "default" : null,
+    "columnName" : "latitude",
+    "sqlType" : "2"
+  }, {
+    "name" : "sid",
+    "type" : [ "null", "int" ],
+    "default" : null,
+    "columnName" : "sid",
+    "sqlType" : "4"
+  } ],
+  "tableName" : "stations"
+}

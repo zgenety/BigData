@@ -1,0 +1,2 @@
+COPY stations FROM STDIN WITH CSV HEADER DELIMITER ',';
+COPY metrics (date_time, aqi, so2, co, o3, o3_8hr, pm10, pm2_5, no2, nox, no, windspeed, winddirec, co_8hr, pm2_5_avg, pm10_avg, so2_avg, sid) FROM STDIN WITH CSV HEADER DELIMITER ',';
